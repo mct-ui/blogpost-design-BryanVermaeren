@@ -94,6 +94,7 @@ h1 {
     font-size: 36px;
     line-height: 40px;
     margin: 0 0 24px;
+    font-family: "Playfair Display", serif;
 }
 
 h2 {
@@ -164,7 +165,7 @@ hr {
 }
 
 a {
-    color: #00A1E6;
+    color: #00E6A1;
     transition: all .1s ease-in-out;
 }
 
